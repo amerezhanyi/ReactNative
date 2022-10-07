@@ -1,3 +1,6 @@
+.expo/
+.dccache
+
 # Logs
 logs
 *.log
